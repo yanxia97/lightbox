@@ -1,1 +1,0 @@
-var grid = new Muuri('.gallery', {dragEnabled: true});
